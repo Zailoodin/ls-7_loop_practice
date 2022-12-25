@@ -101,7 +101,7 @@ String function_8(){
       allSumm += i;
       print(allSumm);
     }
-  } 
+  } ;
    return allSumm; 
 }
 
